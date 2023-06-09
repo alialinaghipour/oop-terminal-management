@@ -1,0 +1,3 @@
+﻿using Terminal;
+
+Ui.Run();
